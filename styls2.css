@@ -5,12 +5,23 @@ html {
 	background: -webkit-linear-gradient(#FDFDF0, #A055F0);
 }
 body {
-	width: 80%;
+	width: 50%;
 	background-color: #707070
-	border: 4px dashed #990000;
+	border: 4px dashed #9FF00F;
 	background: #fc3;  
 	padding: 15px;
 	margin: 0 auto;
+
+    
+        
+          
+    
+
+        
+        Expand All
+    
+    @@ -29,23 +29,23 @@ h1, h2 {
+  
 	border-radius: 10px;
 	box-shadow: 10px 10px 25px rgba(0,0,0,0.8);
 	background-image: url(./images/123.jpg);
@@ -29,24 +40,35 @@ h1, h2 {
 	color: rgb(144, 64, 45);
 }
 h1 {
-	font-size:100px;
+	font-size:50px;
 }
 h2 {
 	border-bottom: 2px white solid;
 	background: url(./images/head-icon.png) no-repeat 10px 10px;
-	padding: 0 0 2px 60px;
+	padding: 0 0 2px 30px;
 	margin: 0;
 }
 .intro {
-	color: #E1E1E1;
+	color: #FFFFE1;
 	font-size: 1.4em;
-	margin-left: 0;
+	margin-left: 10px;
 	margin-bottom: 25px;
 }
 address {
 	font-size: 1.25em;
-	color: #DAB181;
+	color: #DFF381;
 	line-height: 150%;
 	margin-top: 20px;
 	margin-left: 60px;
+
+    
+          
+            
+    
+
+          
+          Expand Down
+    
+    
+  
 }
