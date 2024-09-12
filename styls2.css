@@ -11,17 +11,6 @@ body {
 	background: #fc3;  
 	padding: 15px;
 	margin: 0 auto;
-
-    
-        
-          
-    
-
-        
-        Expand All
-    
-    @@ -29,23 +29,23 @@ h1, h2 {
-  
 	border-radius: 10px;
 	box-shadow: 10px 10px 25px rgba(0,0,0,0.8);
 	background-image: url(./images/123.jpg);
@@ -41,13 +30,26 @@ h1, h2 {
 }
 h1 {
 	font-size:50px;
+	text-align: center;
+	margin-bottom: 100px;
 }
 h2 {
 	border-bottom: 2px white solid;
-	background: url(./images/head-icon.png) no-repeat 10px 10px;
+	background: url(./images/head-icon.png) no-repeat 10px 2px;
 	padding: 0 0 2px 30px;
 	margin: 0;
 }
+
+    
+          
+            
+    
+
+          
+          Expand Down
+    
+    
+  
 .intro {
 	color: #FFFFE1;
 	font-size: 1.4em;
@@ -60,15 +62,4 @@ address {
 	line-height: 150%;
 	margin-top: 20px;
 	margin-left: 60px;
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
 }
