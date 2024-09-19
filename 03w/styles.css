@@ -28,10 +28,23 @@ h1 {
 	border-radius: 0 0 10px 10px;
 	padding: 10px;
 }
-
-div {
-	color: rgb(220, 220, 220);
-	padding: 80px;
-	font-size: 80px;
-	text-align:center;
-} 
+.note {
+	color:black;
+	border: 2px solid white;
+	background-color: rgb(69, 189, 102);
+	margin-top: 25px;
+	margin-bottom: 35px;
+	padding: 20px;
+}
+.note strong {
+	color: white;
+}
+article {
+	max-width: 760px;
+	margin: 0 auto;
+}
+h1 + p {
+	color: rgb(255, 255, 255);
+	font-size: 1.2em;
+	line-height: 140%;
+}
